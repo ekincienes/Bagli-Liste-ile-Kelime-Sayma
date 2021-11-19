@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609800739 source:c:\users\enes\documents\codeblocks projeleri\bagli_liste_ile_kelime_sayma\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+
